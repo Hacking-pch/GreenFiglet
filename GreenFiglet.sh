@@ -1,4 +1,4 @@
-#!/bin/nash
+#!/bin/bash
 # [=] CREADOR: HACKING PCH
 # [+] YOU-TUBE: https://www.youtube.com/channel/UCSZvLf3CT6WAxsWd4om0QNg
 # [+] NINGUN SISTEMA ES SEGURO
